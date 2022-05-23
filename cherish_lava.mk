@@ -48,8 +48,8 @@ TARGET_VENDOR_PRODUCT_NAME := lancelot
 
 # CherishOS properties
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
-    ro.cherish.maintainer=marat2509
+    ro.cherish.maintainer=marat2509&orkunergun
 CHERISH_BUILD_TYPE := OFFICIAL
 CHERISH_VANILLA := false
-TARGET_SUPPORTS_QUICK_TAP := true
+TARGET_SUPPORTS_QUICK_TAP := false
 TARGET_SUPPORTS_BLUR := true
